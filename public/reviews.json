@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "picture": "https://randomuser.me/api/portraits/men/86.jpg",
+        "name": "Clifford Kelley",
+        "comment": "I love mobiles. Every single day I used to travel in different places with my mobile which I bought from here. Thanks to MobilePoint for their best service",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+        "name": "Martin Willis",
+        "comment": "mobilepoint is a good place to buy mobiles. I have found many beautiful mobiles from here. Thanks to MobilePoint.",
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "picture": "https://randomuser.me/api/portraits/men/45.jpg",
+        "name": "Charles Hamilton",
+        "comment": "There can be no better website for a mobile lover than this website. Thanks to MobilePoint for their best service.",
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "picture": "https://randomuser.me/api/portraits/women/3.jpg",
+        "name": "Lillian Olson",
+        "comment": "I am a traveler. I love to travel. This website made my journey easier. I have brought a beautiful mobile to travel. so, thanks to MobilePoint",
+        "rating": 4
+    }
+]
